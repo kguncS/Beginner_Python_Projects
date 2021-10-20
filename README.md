@@ -1,2 +1,2 @@
-# Beginner_Python_Projects
-This repository contains beginner to intermediate level python codes for the given problem sets.
+# Credit
+This branch is dedicated to the credit problem presented by CS50 course given by David J. Malan, implementation is in python. This code must not be used for solving the assignments, its sole purpose is being a proof of work.
