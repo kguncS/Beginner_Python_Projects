@@ -1,2 +1,3 @@
-# Beginner_Python_Projects
-This repository contains beginner to intermediate level python codes for the given problem sets.
+# Plurality
+This branch contains the algorithmic solution behind a plurality voting system with a limited amount of candidates. 
+This problem is taken from CS50 and solved in python. 
